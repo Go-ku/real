@@ -1,0 +1,4 @@
+MONGODB_URI=mongodb+srv://zmapp:xNzXLJ1sk0pvGmar@real-estate-cluster.eexh1op.mongodb.net/?appName=real-estate-cluster/tracker&retryWrites=true&w=majority
+
+AUTH_SECRET=692ddccc44e61954229c1c1ccdb9ae6fe391046841d69ca65ed062a1cd0c8c8d
+LANDLORD_PASSWORD=farooq-P0lgee
